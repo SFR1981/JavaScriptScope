@@ -1,11 +1,11 @@
 // Prediction
-// i think it'll be Mrs Green,
-// because that murderer has the scope of the changeMurderer function and the other 'murderers' will be within their own nested functions.
+// i think it'll be Mr Green,
+// because that murderer has the scope of the changeMurderer function and the other 'murderers' will be within their own nested functions as the second let murderer is of different scope
 
 let murderer = 'Professor Plum';
 
 const changeMurderer = function() {
-  murderer = 'Mr. Green';  // global
+  murderer = 'Mr. Green';
 
   const plotTwist = function() {
     let murderer = 'Colonel Mustard';
