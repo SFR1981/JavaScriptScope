@@ -1,7 +1,8 @@
 
 //Prediction: CandleStick
 // code runs calling changeScenario which assigns scenario.room as 'Dining Room', following this plotTwist is called which sets Mustard as the murderer , then it calls
-// unexpectedOutcome which sets the weapon as the stick
+// unexpectedOutcome which sets the weapon as the stick.
+// 
 
 
 
