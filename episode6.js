@@ -1,7 +1,9 @@
 // Prediction:
 
 // the murder is Mrs. White
-// why: global variable is created then overridden at plottwist, i presume this is what verdict will return 
+//let murderer at top level updated by changeMurderer() and plotTwist()
+//
+//
 
 
 
