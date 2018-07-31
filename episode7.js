@@ -1,6 +1,6 @@
 // Prediction
 // i think it'll be Mr Green,
-// because that murderer has the scope of the changeMurderer function and the other 'murderers' will be within their own nested functions as the second let murderer is of different scope
+// because that murderer has the scope of the changeMurderer function and the other 'murderers' will be within the scope of the second 'let murderer'
 
 let murderer = 'Professor Plum';
 
